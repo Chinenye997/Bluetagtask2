@@ -10,6 +10,7 @@ namespace Bluetagtask2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Formula for the area of a circle: Area = π * radius²\n");
 
             double radius, area;
             Console.WriteLine("Enter the radius of the circle");
